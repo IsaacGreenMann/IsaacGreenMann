@@ -1,16 +1,14 @@
-### Hi there 👋
+Name is Ibrahimzade Rasul. Call me Rasul.
 
-<!--
-**IsaacGreenMann/IsaacGreenMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :iphone: I’m currently working on learning Flutter
 
-Here are some ideas to get you started:
+- :book: At the moment I am a Freshman at Bilkent University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :snake: The most experience I got among Programming Languages was in Python
+
+- :mega: I’m looking for projects that provide lots of practice work
+
+- 📫 How to reach me: ibrahimzade.rasul.simple@gmail.com
+
+- :thumbsup: Fun fact: Every 40 seconds a person dies.
+
